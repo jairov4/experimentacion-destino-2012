@@ -7,6 +7,12 @@ un conjunto de datos proveniente de UniProtKB el cual fue manualmente reetiqueta
 
 -Files and Folders-
 
+report_for_all.txt
+  Report for all model evaluation, it includes full permissions. It results from exec gather_results.sh
+
+gather_results.sh
+  It gather the results in subdirectories to single file.
+
 FullChangeOrders.json
   This file contains all manual tagging information
 
