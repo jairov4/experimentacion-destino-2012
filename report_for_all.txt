@@ -1,0 +1,144 @@
+./HmmModels/6K1_CI_7_2/6K1_CI_7_2_hmm_test_report.txt
+True Positives: 20, True Negatives: 63752
+Total Samples: 64168, Total P-samples: 26, Total N-samples: 64142
+Accuracy: 0.993829, Sensitivity: 0.769231, Specificity: 0.99392, MCC: 0.192756
+./HmmModels/6K1_CI_7_2_balanced/6K1_CI_7_2_hmm_test_report.txt
+True Positives: 20, True Negatives: 63724
+Total Samples: 64168, Total P-samples: 26, Total N-samples: 64142
+Accuracy: 0.993392, Sensitivity: 0.769231, Specificity: 0.993483, MCC: 0.186428
+./HmmModels/6K2_VPg_9_0/6K2_VPg_9_0_hmm_test_report.txt
+True Positives: 26, True Negatives: 60855
+Total Samples: 62467, Total P-samples: 32, Total N-samples: 62435
+Accuracy: 0.974611, Sensitivity: 0.8125, Specificity: 0.974694, MCC: 0.112546
+./HmmModels/6K2_VPg_9_0_balanced/6K2_VPg_9_0_hmm_test_report.txt
+True Positives: 25, True Negatives: 61429
+Total Samples: 62467, Total P-samples: 32, Total N-samples: 62435
+Accuracy: 0.983783, Sensitivity: 0.78125, Specificity: 0.983887, MCC: 0.13589
+./HmmModels/CI_6K2_5_5/CI_6K2_5_5_hmm_test_report.txt
+True Positives: 26, True Negatives: 68636
+Total Samples: 68801, Total P-samples: 28, Total N-samples: 68773
+Accuracy: 0.99798, Sensitivity: 0.928571, Specificity: 0.998008, MCC: 0.38441
+./HmmModels/CI_6K2_5_5_balanced/CI_6K2_5_5_hmm_test_report.txt
+True Positives: 26, True Negatives: 68659
+Total Samples: 68801, Total P-samples: 28, Total N-samples: 68773
+Accuracy: 0.998314, Sensitivity: 0.928571, Specificity: 0.998342, MCC: 0.414866
+./HmmModels/HC_P3_6_5/HC_P3_6_5_hmm_test_report.txt
+True Positives: 21, True Negatives: 65498
+Total Samples: 65582, Total P-samples: 24, Total N-samples: 65558
+Accuracy: 0.999039, Sensitivity: 0.875, Specificity: 0.999085, MCC: 0.475998
+./HmmModels/HC_P3_6_5_balanced/HC_P3_6_5_hmm_test_report.txt
+True Positives: 21, True Negatives: 65397
+Total Samples: 65582, Total P-samples: 24, Total N-samples: 65558
+Accuracy: 0.997499, Sensitivity: 0.875, Specificity: 0.997544, MCC: 0.317235
+./HmmModels/NIa_NIb_1_10/NIa_NIb_1_10_hmm_test_report.txt
+True Positives: 17, True Negatives: 70656
+Total Samples: 70864, Total P-samples: 28, Total N-samples: 70836
+Accuracy: 0.997305, Sensitivity: 0.607143, Specificity: 0.997459, MCC: 0.22821
+./HmmModels/NIa_NIb_1_10_balanced/NIa_NIb_1_10_hmm_test_report.txt
+True Positives: 17, True Negatives: 70570
+Total Samples: 70864, Total P-samples: 28, Total N-samples: 70836
+Accuracy: 0.996091, Sensitivity: 0.607143, Specificity: 0.996245, MCC: 0.190136
+./HmmModels/NIb_CP_2_9/NIb_CP_2_9_hmm_test_report.txt
+True Positives: 70, True Negatives: 81721
+Total Samples: 82868, Total P-samples: 89, Total N-samples: 82779
+Accuracy: 0.987003, Sensitivity: 0.786517, Specificity: 0.987219, MCC: 0.218714
+./HmmModels/NIb_CP_2_9_balanced/NIb_CP_2_9_hmm_test_report.txt
+True Positives: 73, True Negatives: 81585
+Total Samples: 82868, Total P-samples: 89, Total N-samples: 82779
+Accuracy: 0.985398, Sensitivity: 0.820225, Specificity: 0.985576, MCC: 0.215103
+./HmmModels/P1_HC_3_8/P1_HC_3_8_hmm_test_report.txt
+True Positives: 30, True Negatives: 64816
+Total Samples: 65227, Total P-samples: 32, Total N-samples: 65195
+Accuracy: 0.994159, Sensitivity: 0.9375, Specificity: 0.994187, MCC: 0.261362
+./HmmModels/P1_HC_3_8_balanced/P1_HC_3_8_hmm_test_report.txt
+True Positives: 30, True Negatives: 64846
+Total Samples: 65227, Total P-samples: 32, Total N-samples: 65195
+Accuracy: 0.994619, Sensitivity: 0.9375, Specificity: 0.994647, MCC: 0.27158
+./HmmModels/P3_6K1_2_8/P3_6K1_2_8_hmm_test_report.txt
+True Positives: 17, True Negatives: 65799
+Total Samples: 66177, Total P-samples: 22, Total N-samples: 66155
+Accuracy: 0.994545, Sensitivity: 0.772727, Specificity: 0.994619, MCC: 0.186854
+./HmmModels/P3_6K1_2_8_balanced/P3_6K1_2_8_hmm_test_report.txt
+True Positives: 17, True Negatives: 65730
+Total Samples: 66177, Total P-samples: 22, Total N-samples: 66155
+Accuracy: 0.993502, Sensitivity: 0.772727, Specificity: 0.993576, MCC: 0.171508
+./HmmModels/VPg_NIa_3_7/VPg_NIa_3_7_hmm_test_report.txt
+True Positives: 16, True Negatives: 65481
+Total Samples: 65708, Total P-samples: 24, Total N-samples: 65684
+Accuracy: 0.996789, Sensitivity: 0.666667, Specificity: 0.996909, MCC: 0.219999
+./HmmModels/VPg_NIa_3_7_balanced/VPg_NIa_3_7_hmm_test_report.txt
+True Positives: 16, True Negatives: 65462
+Total Samples: 65708, Total P-samples: 24, Total N-samples: 65684
+Accuracy: 0.9965, Sensitivity: 0.666667, Specificity: 0.99662, MCC: 0.210973
+./OilModels/6K1_CI_7_2/6K1_CI_7_2_oil_test_report.txt
+True Positives: 7, True Negatives: 64142
+Total Samples: 64168, Total P-samples: 26, Total N-samples: 64142
+Accuracy: 0.999704, Sensitivity: 0.269231, Specificity: 1, MCC: 0.518798
+./OilModels/6K1_CI_7_2_balanced/6K1_CI_7_2_oil_test_report.txt
+True Positives: 22, True Negatives: 62251
+Total Samples: 64168, Total P-samples: 26, Total N-samples: 64142
+Accuracy: 0.970468, Sensitivity: 0.846154, Specificity: 0.970519, MCC: 0.096641
+./OilModels/6K2_VPg_9_0/6K2_VPg_9_0_oil_test_report.txt
+True Positives: 3, True Negatives: 62435
+Total Samples: 62467, Total P-samples: 32, Total N-samples: 62435
+Accuracy: 0.999536, Sensitivity: 0.09375, Specificity: 1, MCC: 0.306115
+./OilModels/6K2_VPg_9_0_balanced/6K2_VPg_9_0_oil_test_report.txt
+True Positives: 25, True Negatives: 60537
+Total Samples: 62467, Total P-samples: 32, Total N-samples: 62435
+Accuracy: 0.969504, Sensitivity: 0.78125, Specificity: 0.9696, MCC: 0.0983597
+./OilModels/CI_6K2_5_5/CI_6K2_5_5_oil_test_report.txt
+True Positives: 11, True Negatives: 68772
+Total Samples: 68801, Total P-samples: 28, Total N-samples: 68773
+Accuracy: 0.999738, Sensitivity: 0.392857, Specificity: 0.999985, MCC: 0.600007
+./OilModels/CI_6K2_5_5_balanced/CI_6K2_5_5_oil_test_report.txt
+True Positives: 24, True Negatives: 66156
+Total Samples: 68801, Total P-samples: 28, Total N-samples: 68773
+Accuracy: 0.961905, Sensitivity: 0.857143, Specificity: 0.961947, MCC: 0.085988
+./OilModels/HC_P3_6_5/HC_P3_6_5_oil_test_report.txt
+True Positives: 0, True Negatives: 65558
+Total Samples: 65582, Total P-samples: 24, Total N-samples: 65558
+Accuracy: 0.999634, Sensitivity: 0, Specificity: 1, MCC: -1.#IND
+./OilModels/HC_P3_6_5_balanced/HC_P3_6_5_oil_test_report.txt
+True Positives: 15, True Negatives: 63963
+Total Samples: 65582, Total P-samples: 24, Total N-samples: 65558
+Accuracy: 0.975542, Sensitivity: 0.625, Specificity: 0.97567, MCC: 0.0742415
+./OilModels/NIa_NIb_1_10/NIa_NIb_1_10_oil_test_report.txt
+True Positives: 1, True Negatives: 70836
+Total Samples: 70864, Total P-samples: 28, Total N-samples: 70836
+Accuracy: 0.999619, Sensitivity: 0.0357143, Specificity: 1, MCC: 0.188946
+./OilModels/NIa_NIb_1_10_balanced/NIa_NIb_1_10_oil_test_report.txt
+True Positives: 15, True Negatives: 69115
+Total Samples: 70864, Total P-samples: 28, Total N-samples: 70836
+Accuracy: 0.975531, Sensitivity: 0.535714, Specificity: 0.975704, MCC: 0.0657477
+./OilModels/NIb_CP_2_9/NIb_CP_2_9_oil_test_report.txt
+True Positives: 30, True Negatives: 82766
+Total Samples: 82868, Total P-samples: 89, Total N-samples: 82779
+Accuracy: 0.999131, Sensitivity: 0.337079, Specificity: 0.999843, MCC: 0.484584
+./OilModels/NIb_CP_2_9_balanced/NIb_CP_2_9_oil_test_report.txt
+True Positives: 71, True Negatives: 78535
+Total Samples: 82868, Total P-samples: 89, Total N-samples: 82779
+Accuracy: 0.948569, Sensitivity: 0.797753, Specificity: 0.948731, MCC: 0.110053
+./OilModels/P1_HC_3_8/P1_HC_3_8_oil_test_report.txt
+True Positives: 9, True Negatives: 65193
+Total Samples: 65227, Total P-samples: 32, Total N-samples: 65195
+Accuracy: 0.999617, Sensitivity: 0.28125, Specificity: 0.999969, MCC: 0.479572
+./OilModels/P1_HC_3_8_balanced/P1_HC_3_8_oil_test_report.txt
+True Positives: 27, True Negatives: 63687
+Total Samples: 65227, Total P-samples: 32, Total N-samples: 65195
+Accuracy: 0.976804, Sensitivity: 0.84375, Specificity: 0.976869, MCC: 0.119875
+./OilModels/P3_6K1_2_8/P3_6K1_2_8_oil_test_report.txt
+True Positives: 0, True Negatives: 66155
+Total Samples: 66177, Total P-samples: 22, Total N-samples: 66155
+Accuracy: 0.999668, Sensitivity: 0, Specificity: 1, MCC: -1.#IND
+./OilModels/P3_6K1_2_8_balanced/P3_6K1_2_8_oil_test_report.txt
+True Positives: 14, True Negatives: 63828
+Total Samples: 66177, Total P-samples: 22, Total N-samples: 66155
+Accuracy: 0.964716, Sensitivity: 0.636364, Specificity: 0.964825, MCC: 0.0593294
+./OilModels/VPg_NIa_3_7/VPg_NIa_3_7_oil_test_report.txt
+True Positives: 8, True Negatives: 65683
+Total Samples: 65708, Total P-samples: 24, Total N-samples: 65684
+Accuracy: 0.999741, Sensitivity: 0.333333, Specificity: 0.999985, MCC: 0.544244
+./OilModels/VPg_NIa_3_7_balanced/VPg_NIa_3_7_oil_test_report.txt
+True Positives: 19, True Negatives: 64051
+Total Samples: 65708, Total P-samples: 24, Total N-samples: 65684
+Accuracy: 0.975072, Sensitivity: 0.791667, Specificity: 0.975139, MCC: 0.0935913
