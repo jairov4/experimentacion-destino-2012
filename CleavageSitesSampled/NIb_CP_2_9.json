@@ -1,0 +1,10 @@
+{
+  "collisionsResolved": 50,
+  "negCount": 413891,
+  "posCount": 441,
+  "cdr": 3187,
+  "prefixLength": 2,
+  "suffixLength": 9,
+  "trainSize": 331464,
+  "testSize": 82868
+}

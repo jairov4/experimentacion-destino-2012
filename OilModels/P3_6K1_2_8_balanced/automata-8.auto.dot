@@ -1,0 +1,130 @@
+digraph "NDFA" {
+  rankdir=LR
+  node [shape=box width=0.1 height=0.1 fontname=Arial]
+  edge [fontname=Arial]
+/* Estados */
+ s0 [label="0" style="filled,bold,dashed"] /* I:1 F:1 D:0 */
+ s1 [label="1" ] /* I:0 F:0 D:0 */
+ s2 [label="2" style="bold,dashed"] /* I:0 F:1 D:0 */
+ s4 [label="4" style="bold,dashed"] /* I:0 F:1 D:0 */
+ s5 [label="5" ] /* I:0 F:0 D:0 */
+ s6 [label="6" ] /* I:0 F:0 D:0 */
+ s7 [label="7" ] /* I:0 F:0 D:0 */
+ s8 [label="8" style="bold,dashed"] /* I:0 F:1 D:0 */
+ s9 [label="9" style="filled,bold,dashed"] /* I:1 F:1 D:0 */
+ s11 [label="11" ] /* I:0 F:0 D:0 */
+ s12 [label="12" style="filled"] /* I:1 F:0 D:0 */
+ s13 [label="13" ] /* I:0 F:0 D:0 */
+ s14 [label="14" style="bold,dashed"] /* I:0 F:1 D:0 */
+ s15 [label="15" ] /* I:0 F:0 D:0 */
+ s16 [label="16" ] /* I:0 F:0 D:0 */
+ s17 [label="17" ] /* I:0 F:0 D:0 */
+ s19 [label="19" ] /* I:0 F:0 D:0 */
+ s20 [label="20" ] /* I:0 F:0 D:0 */
+ s24 [label="24" ] /* I:0 F:0 D:0 */
+ s27 [label="27" ] /* I:0 F:0 D:0 */
+/* Transiciones */
+  s0 -> s0 [label="21"]
+  s0 -> s2 [label="7"]
+  s0 -> s5 [label="11,16"]
+  s0 -> s6 [label="0"]
+  s0 -> s7 [label="18"]
+  s0 -> s9 [label="5,21"]
+  s0 -> s13 [label="10,24"]
+  s1 -> s0 [label="10"]
+  s1 -> s1 [label="3,10,17"]
+  s1 -> s2 [label="4,13"]
+  s1 -> s7 [label="19"]
+  s1 -> s8 [label="5,16"]
+  s1 -> s11 [label="17"]
+  s1 -> s13 [label="5,12,16,18"]
+  s1 -> s14 [label="4"]
+  s1 -> s16 [label="8"]
+  s1 -> s20 [label="11,17,19"]
+  s2 -> s1 [label="0"]
+  s2 -> s2 [label="6"]
+  s2 -> s4 [label="4"]
+  s2 -> s7 [label="16"]
+  s2 -> s8 [label="0,3,15,18"]
+  s2 -> s9 [label="0,3,6"]
+  s2 -> s12 [label="18"]
+  s2 -> s15 [label="17"]
+  s2 -> s17 [label="10"]
+  s2 -> s24 [label="18"]
+  s4 -> s1 [label="10"]
+  s4 -> s2 [label="4"]
+  s4 -> s8 [label="6"]
+  s4 -> s9 [label="6,7,8"]
+  s4 -> s20 [label="10"]
+  s5 -> s4 [label="0"]
+  s5 -> s9 [label="16"]
+  s6 -> s1 [label="6"]
+  s6 -> s2 [label="4,11"]
+  s6 -> s6 [label="15,16"]
+  s6 -> s7 [label="18"]
+  s6 -> s8 [label="18"]
+  s6 -> s9 [label="10"]
+  s6 -> s12 [label="0"]
+  s6 -> s17 [label="0"]
+  s7 -> s1 [label="19"]
+  s7 -> s2 [label="13"]
+  s7 -> s6 [label="17,18"]
+  s7 -> s8 [label="5"]
+  s7 -> s9 [label="6"]
+  s7 -> s11 [label="16"]
+  s7 -> s17 [label="17"]
+  s8 -> s0 [label="4"]
+  s8 -> s2 [label="3"]
+  s8 -> s6 [label="10,17"]
+  s8 -> s8 [label="3,7,16"]
+  s8 -> s9 [label="0,4,7,11,12,21"]
+  s8 -> s13 [label="6,19"]
+  s8 -> s16 [label="4"]
+  s8 -> s20 [label="17"]
+  s9 -> s0 [label="0,10,19"]
+  s9 -> s1 [label="3,4,7"]
+  s9 -> s2 [label="0,16,17"]
+  s9 -> s4 [label="4"]
+  s9 -> s6 [label="6,7"]
+  s9 -> s7 [label="7,10,15"]
+  s9 -> s8 [label="13,19,24"]
+  s9 -> s9 [label="0,2,5,7,8,10,16,18,19,21"]
+  s9 -> s11 [label="0,10"]
+  s9 -> s14 [label="13,22"]
+  s9 -> s15 [label="18,21"]
+  s9 -> s16 [label="11"]
+  s9 -> s19 [label="18,19"]
+  s9 -> s20 [label="0"]
+  s9 -> s24 [label="3"]
+  s9 -> s27 [label="16"]
+  s11 -> s8 [label="10"]
+  s11 -> s9 [label="0"]
+  s11 -> s14 [label="17"]
+  s12 -> s2 [label="4"]
+  s12 -> s4 [label="11"]
+  s12 -> s8 [label="10"]
+  s13 -> s7 [label="15"]
+  s13 -> s9 [label="4,6,16,17,21"]
+  s14 -> s0 [label="15"]
+  s14 -> s8 [label="4,11"]
+  s14 -> s9 [label="11"]
+  s14 -> s13 [label="18"]
+  s15 -> s2 [label="10,19"]
+  s15 -> s6 [label="16"]
+  s15 -> s9 [label="7"]
+  s15 -> s20 [label="10"]
+  s16 -> s9 [label="4,5"]
+  s16 -> s14 [label="16"]
+  s17 -> s2 [label="18"]
+  s17 -> s8 [label="18"]
+  s17 -> s9 [label="17,24"]
+  s17 -> s14 [label="4"]
+  s19 -> s0 [label="15"]
+  s19 -> s4 [label="11"]
+  s20 -> s2 [label="6"]
+  s20 -> s9 [label="13"]
+  s24 -> s6 [label="19"]
+  s24 -> s8 [label="16"]
+  s24 -> s13 [label="13"]
+  s27 -> s24 [label="11"]
+}

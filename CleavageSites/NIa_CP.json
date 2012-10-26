@@ -1,0 +1,20 @@
+[
+  {
+    "Accession": "C8CP61",
+    "Tag1": "NIa",
+    "Tag2": "CP",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 61,
+    "LocationEnd": 62
+  },
+  {
+    "Accession": "D6NKG7",
+    "Tag1": "NIa",
+    "Tag2": "CP",
+    "ChainIndex1": 5,
+    "ChainIndex2": 6,
+    "LocationBegin": 2229,
+    "LocationEnd": 2751
+  }
+]

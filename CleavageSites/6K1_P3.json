@@ -1,0 +1,29 @@
+[
+  {
+    "Accession": "Q68VH7",
+    "Tag1": "6K1",
+    "Tag2": "P3",
+    "ChainIndex1": 1,
+    "ChainIndex2": 2,
+    "LocationBegin": 359,
+    "LocationEnd": 360
+  },
+  {
+    "Accession": "Q68VH9",
+    "Tag1": "6K1",
+    "Tag2": "P3",
+    "ChainIndex1": 1,
+    "ChainIndex2": 2,
+    "LocationBegin": 359,
+    "LocationEnd": 360
+  },
+  {
+    "Accession": "Q68VH8",
+    "Tag1": "6K1",
+    "Tag2": "P3",
+    "ChainIndex1": 1,
+    "ChainIndex2": 2,
+    "LocationBegin": 359,
+    "LocationEnd": 360
+  }
+]

@@ -1,0 +1,9 @@
+start bin\sampler.exe CleavageSites\NIb_CP.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=2 --suffix=9
+start bin\sampler.exe CleavageSites\CI_6K2.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=5 --suffix=5
+start bin\sampler.exe CleavageSites\6K2_VPg.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=9 --suffix=0
+start bin\sampler.exe CleavageSites\VPg_NIa.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=3 --suffix=7
+start bin\sampler.exe CleavageSites\P1_HC.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=3 --suffix=8
+start bin\sampler.exe CleavageSites\NIa_NIb.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=1 --suffix=10
+start bin\sampler.exe CleavageSites\P3_6K1.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=2 --suffix=8
+start bin\sampler.exe CleavageSites\6K1_CI.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=7 --suffix=2
+start bin\sampler.exe CleavageSites\HC_P3.json uniprot-taxonomy-potyviridae.xml CleavageSitesSampled --prefix=6 --suffix=5

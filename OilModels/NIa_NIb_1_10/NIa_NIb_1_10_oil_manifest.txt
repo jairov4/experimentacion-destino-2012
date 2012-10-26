@@ -1,0 +1,17 @@
+# Manifiesto de clasificador
+# Los siguientes archivos de modelos referenciados
+automata-0.auto
+automata-1.auto
+automata-2.auto
+automata-3.auto
+automata-4.auto
+automata-5.auto
+automata-6.auto
+automata-7.auto
+automata-8.auto
+automata-9.auto
+automata-10.auto
+automata-11.auto
+automata-12.auto
+automata-13.auto
+automata-14.auto

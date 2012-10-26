@@ -1,0 +1,5969 @@
+[
+  {
+    "Accession": "Q65399",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "Q65730",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 403,
+    "LocationEnd": 404
+  },
+  {
+    "Accession": "Q6XW15",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 313,
+    "LocationEnd": 314
+  },
+  {
+    "Accession": "A0AUJ5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 745,
+    "LocationEnd": 746
+  },
+  {
+    "Accession": "P17765",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "P89876",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 437,
+    "LocationEnd": 438
+  },
+  {
+    "Accession": "P31999",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 437,
+    "LocationEnd": 438
+  },
+  {
+    "Accession": "Q01500",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "O56075",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 322,
+    "LocationEnd": 323
+  },
+  {
+    "Accession": "P13529",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "P17766",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "P17767",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q84934",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q01901",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "P29152",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 397,
+    "LocationEnd": 398
+  },
+  {
+    "Accession": "Q85197",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 298,
+    "LocationEnd": 299
+  },
+  {
+    "Accession": "P22601",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "Q02963",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "P18247",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "P22602",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "O11436",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 256,
+    "LocationEnd": 257
+  },
+  {
+    "Accession": "Q90069",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "P21231",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "P89201",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 743,
+    "LocationEnd": 744
+  },
+  {
+    "Accession": "P04517",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 304,
+    "LocationEnd": 305
+  },
+  {
+    "Accession": "A4KZ49",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 383,
+    "LocationEnd": 384
+  },
+  {
+    "Accession": "P89509",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q02597",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "P09814",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 274,
+    "LocationEnd": 275
+  },
+  {
+    "Accession": "P18479",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q89330",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 314,
+    "LocationEnd": 315
+  },
+  {
+    "Accession": "O36979",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 314,
+    "LocationEnd": 315
+  },
+  {
+    "Accession": "Q5TLB7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "C0JMS3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "E5RTW3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTU7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTW1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C5G6E0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 288,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "B2D0J2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "A7IYQ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "B3VL76",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "Q7THD2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "B2Y6H0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 405,
+    "LocationEnd": 406
+  },
+  {
+    "Accession": "Q8QY01",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 423,
+    "LocationEnd": 424
+  },
+  {
+    "Accession": "Q8QY00",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "Q91HK6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "Q2A869",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 359,
+    "LocationEnd": 360
+  },
+  {
+    "Accession": "Q4LCH0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 359,
+    "LocationEnd": 360
+  },
+  {
+    "Accession": "C9DRL2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 237,
+    "LocationEnd": 238
+  },
+  {
+    "Accession": "D2CL25",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 279,
+    "LocationEnd": 280
+  },
+  {
+    "Accession": "D2CL23",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 279,
+    "LocationEnd": 280
+  },
+  {
+    "Accession": "D2CL24",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 279,
+    "LocationEnd": 280
+  },
+  {
+    "Accession": "D2CL26",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 279,
+    "LocationEnd": 280
+  },
+  {
+    "Accession": "Q8QXL0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 211,
+    "LocationEnd": 212
+  },
+  {
+    "Accession": "D2CL27",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 279,
+    "LocationEnd": 280
+  },
+  {
+    "Accession": "Q6PVM6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 423,
+    "LocationEnd": 424
+  },
+  {
+    "Accession": "A7Y4A2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q7T5A6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 458,
+    "LocationEnd": 459
+  },
+  {
+    "Accession": "C9W107",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 419,
+    "LocationEnd": 463
+  },
+  {
+    "Accession": "G9B189",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 329,
+    "LocationEnd": 330
+  },
+  {
+    "Accession": "A6XMW6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 329,
+    "LocationEnd": 330
+  },
+  {
+    "Accession": "E5D824",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 654,
+    "LocationEnd": 655
+  },
+  {
+    "Accession": "F5A8A7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "A1YIQ5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 546,
+    "LocationEnd": 547
+  },
+  {
+    "Accession": "Q2A7R3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q1XFM1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q1XFM8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q1XFM3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q1XFM2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q8B491",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q1XFM0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q1XFM4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q912R2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 385,
+    "LocationEnd": 386
+  },
+  {
+    "Accession": "Q85057",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "Q85071",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "Q563A1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "Q8QXN2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8QXN1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8B388",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8QXN5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "G3JWP2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q3LA47",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q6Q098",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8QXN4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8B968",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8QQV9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q8QXN3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "B9TR83",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q68T41",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "B4YQS1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQT2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI18",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI19",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI22",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI24",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 439,
+    "LocationEnd": 440
+  },
+  {
+    "Accession": "F2YI25",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 439,
+    "LocationEnd": 440
+  },
+  {
+    "Accession": "F2YI29",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI20",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI26",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 439,
+    "LocationEnd": 440
+  },
+  {
+    "Accession": "B4YQT0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQS4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 439,
+    "LocationEnd": 440
+  },
+  {
+    "Accession": "F2YI27",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 439,
+    "LocationEnd": 440
+  },
+  {
+    "Accession": "B4YQT1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "Q27ID7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "F2YI21",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "B4YQT3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "Q1HAY4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 443,
+    "LocationEnd": 444
+  },
+  {
+    "Accession": "F2YI23",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "F2YI28",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 439,
+    "LocationEnd": 440
+  },
+  {
+    "Accession": "B4YQS9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 444,
+    "LocationEnd": 445
+  },
+  {
+    "Accession": "A8QWY6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "D3TJM0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q25C85",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 328,
+    "LocationEnd": 329
+  },
+  {
+    "Accession": "I0J3R2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q1XFM7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q1KZY1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 300,
+    "LocationEnd": 301
+  },
+  {
+    "Accession": "F4ZLQ9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 312,
+    "LocationEnd": 313
+  },
+  {
+    "Accession": "F4ZLR0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 312,
+    "LocationEnd": 313
+  },
+  {
+    "Accession": "Q9QBT4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 297,
+    "LocationEnd": 298
+  },
+  {
+    "Accession": "D2JYM1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 297,
+    "LocationEnd": 298
+  },
+  {
+    "Accession": "Q9QBT5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 297,
+    "LocationEnd": 298
+  },
+  {
+    "Accession": "Q9IW92",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 289,
+    "LocationEnd": 290
+  },
+  {
+    "Accession": "Q9QBT6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 297,
+    "LocationEnd": 298
+  },
+  {
+    "Accession": "Q9QBT7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 297,
+    "LocationEnd": 298
+  },
+  {
+    "Accession": "Q9DIC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 297,
+    "LocationEnd": 298
+  },
+  {
+    "Accession": "D5MPI0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 664,
+    "LocationEnd": 665
+  },
+  {
+    "Accession": "Q8B6S3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 289,
+    "LocationEnd": 289
+  },
+  {
+    "Accession": "C4N332",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 724,
+    "LocationEnd": 725
+  },
+  {
+    "Accession": "Q5GIU5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 696,
+    "LocationEnd": 697
+  },
+  {
+    "Accession": "Q5GIV0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 424,
+    "LocationEnd": 425
+  },
+  {
+    "Accession": "Q5GIV3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 689,
+    "LocationEnd": 690
+  },
+  {
+    "Accession": "G9F9P9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 293,
+    "LocationEnd": 294
+  },
+  {
+    "Accession": "Q2PH47",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 424,
+    "LocationEnd": 425
+  },
+  {
+    "Accession": "Q2PH49",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 424,
+    "LocationEnd": 425
+  },
+  {
+    "Accession": "Q2PH48",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 424,
+    "LocationEnd": 425
+  },
+  {
+    "Accession": "Q8UZ37",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "G4V504",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 327,
+    "LocationEnd": 328
+  },
+  {
+    "Accession": "A8S2H4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 345,
+    "LocationEnd": 346
+  },
+  {
+    "Accession": "Q8JJZ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5ZPN9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q3LWV6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q3LWV7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q1JV87",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "Q5ZPN8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "A1X3E8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1B3W8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "C7S7D8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7F2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7F3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "D0FY84",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY85",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "G1E6L0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1B3W9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "C7S7F1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "E9REJ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1B3X2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q5EGB8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "A0FKE0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "A7BHG8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY83",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5ZPN7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q8QT09",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5EGB7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "A0FKD9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q8JJZ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "C7S7E0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "Q5EGB6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "E2GLM1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "E9REJ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5ZPN4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q85105",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 296,
+    "LocationEnd": 296
+  },
+  {
+    "Accession": "Q5XNR6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "A0FKD8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "C7S7E8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C6KF60",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "E2GLM2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5XNR5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q4ZHU5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5EGB5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q5ZPN5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1B3X1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q5ZPN6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B6E9S7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "C7S7E3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7E7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "F6KV43",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1B3X0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "C7S7F0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "C7S7D9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 287,
+    "LocationEnd": 288
+  },
+  {
+    "Accession": "Q85265",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q9E6F7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1GRY8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRY9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRZ0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRZ6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRZ9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GS00",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GS03",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B3GCK2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "E9REJ3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY90",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY86",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY94",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY96",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYA0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYA4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYA6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYB2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1GRZ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "D0FYB6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1GRZ5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRZ7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GS04",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRZ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B3GCK0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYA8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1GRZ8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "A7BEY4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 45,
+    "LocationEnd": 46
+  },
+  {
+    "Accession": "D0FYB4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYA2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1GRZ3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GS02",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "B1GRZ4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "Q9E6F6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY88",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B3GCK1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FYB0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY92",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "D0FY98",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "B1GS01",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 31,
+    "LocationEnd": 32
+  },
+  {
+    "Accession": "Q7T7N5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 480,
+    "LocationEnd": 481
+  },
+  {
+    "Accession": "Q6WN47",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q6WN49",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "A1DU45",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "A1DU46",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q7T908",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "A6PZ08",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q6Y2U7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 304,
+    "LocationEnd": 305
+  },
+  {
+    "Accession": "Q9WAC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q7T915",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q7T917",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q2MHN6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q6WN48",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q2MHN5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q7T914",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q7T909",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q8B6A8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 304,
+    "LocationEnd": 305
+  },
+  {
+    "Accession": "D7P5L3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 304,
+    "LocationEnd": 305
+  },
+  {
+    "Accession": "G9CHB4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 11,
+    "LocationEnd": 12
+  },
+  {
+    "Accession": "Q6XQ83",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q6XQK0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q9IBP2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q5K4D6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 330,
+    "LocationEnd": 331
+  },
+  {
+    "Accession": "Q80MW8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q6WE90",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKC0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKC1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKC4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKD3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKD2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKB9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKD1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q7TB14",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKC6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WIH9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q6WE89",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKD4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C1KAE5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKC3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKA7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKC9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q70XR2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 330,
+    "LocationEnd": 331
+  },
+  {
+    "Accession": "C9WKD0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKC5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKB0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKC7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKA9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKC8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKA8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C9WKB4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q705V6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKB7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "C9WKD5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q6XQ82",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 127,
+    "LocationEnd": 128
+  },
+  {
+    "Accession": "A2T823",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 246,
+    "LocationEnd": 247
+  },
+  {
+    "Accession": "I0J3R3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "D2SLM5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0C2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0B4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "E2CV60",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2SLL9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2SLM3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0C0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0B0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0B2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0B6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0C4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2SLM1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2T0B8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "D2SLM7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 758,
+    "LocationEnd": 759
+  },
+  {
+    "Accession": "Q52V19",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q1KN85",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C5G6E3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 288,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C5G6E4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 288,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTU5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTQ3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTQ5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTQ9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTR7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTS7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTT3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RPC0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTT9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTU9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTV1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTR5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTV3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTR1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q52V20",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q6LAL3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "A8CSX0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTW7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q1KN84",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C5G6D8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 288,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTS5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTT1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTU3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTT7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTS9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q52V21",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTR9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTP9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C5G6E2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 288,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q52V18",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "C5G6D9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 288,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTS1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTR3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTV7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTQ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTS3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q84925",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTT5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "Q9PYF0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTV5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTQ7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "E5RTU1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "D4P074",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D4P075",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D4P076",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D4P073",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D4P078",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D4P077",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "Q5D1Z2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D4P079",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "D3KDU8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 37,
+    "LocationEnd": 38
+  },
+  {
+    "Accession": "D3KDU7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "G4WWB3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 358,
+    "LocationEnd": 359
+  },
+  {
+    "Accession": "G4WWB4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 358,
+    "LocationEnd": 359
+  },
+  {
+    "Accession": "G4WWB5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 358,
+    "LocationEnd": 359
+  },
+  {
+    "Accession": "Q5TLB4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLB3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLB9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLB5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLB6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLB2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q5TLC6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "G9FIG9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 85,
+    "LocationEnd": 86
+  },
+  {
+    "Accession": "A2VA08",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "G1UGS0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 438,
+    "LocationEnd": 439
+  },
+  {
+    "Accession": "Q3LA48",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "C6GZ24",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "O73463",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "C1L341",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "G0UDG7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDG9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDG5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDG6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDS2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDG8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDQ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDR4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDM8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDP6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDL2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDH9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDI9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDJ5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDK2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "G0UDN7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 32,
+    "LocationEnd": 33
+  },
+  {
+    "Accession": "Q000U0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 304,
+    "LocationEnd": 305
+  },
+  {
+    "Accession": "Q8B490",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 275,
+    "LocationEnd": 276
+  },
+  {
+    "Accession": "Q1XFM5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "A2VB86",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "A8YQH4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 22,
+    "LocationEnd": 23
+  },
+  {
+    "Accession": "A6XMW5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 298,
+    "LocationEnd": 299
+  },
+  {
+    "Accession": "A6XMW4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 309,
+    "LocationEnd": 310
+  },
+  {
+    "Accession": "O89525",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 256,
+    "LocationEnd": 257
+  },
+  {
+    "Accession": "D5J731",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 407,
+    "LocationEnd": 408
+  },
+  {
+    "Accession": "C7BWW6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 308,
+    "LocationEnd": 309
+  },
+  {
+    "Accession": "D5J730",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 412,
+    "LocationEnd": 413
+  },
+  {
+    "Accession": "I1V2D4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 322,
+    "LocationEnd": 323
+  },
+  {
+    "Accession": "A6XMW3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "P89208",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q2EKD7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "A2AWV7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 394,
+    "LocationEnd": 395
+  },
+  {
+    "Accession": "B5D8R4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "I2E5K2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 394,
+    "LocationEnd": 395
+  },
+  {
+    "Accession": "Q80R19",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "Q9EAE6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 437,
+    "LocationEnd": 438
+  },
+  {
+    "Accession": "Q8QXL1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "Q18PS3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "Q8QXL2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 233,
+    "LocationEnd": 234
+  },
+  {
+    "Accession": "B5B037",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "Q2EKD8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 547,
+    "LocationEnd": 548
+  },
+  {
+    "Accession": "Q18PS4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "B8Y7S8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  },
+  {
+    "Accession": "Q80P68",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 437,
+    "LocationEnd": 438
+  },
+  {
+    "Accession": "I2E5K1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 330,
+    "LocationEnd": 331
+  },
+  {
+    "Accession": "I2E5L6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 330,
+    "LocationEnd": 331
+  },
+  {
+    "Accession": "A7XZS1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "E5KGC6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "I2E5L7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "D2T0F9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 298,
+    "LocationEnd": 299
+  },
+  {
+    "Accession": "F1AC57",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 298,
+    "LocationEnd": 299
+  },
+  {
+    "Accession": "C6ZK36",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 352,
+    "LocationEnd": 353
+  },
+  {
+    "Accession": "C6ZK37",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 352,
+    "LocationEnd": 353
+  },
+  {
+    "Accession": "Q5I1Y6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 415,
+    "LocationEnd": 416
+  },
+  {
+    "Accession": "E5KWJ2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "E5KWJ1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "E5KWJ0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "Q7T4H3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4G8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4G7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q6I7R7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDB4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDB7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDB8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDB9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDG3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "A0EXG4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "A0EXG5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "C3SAF7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "C3SAF8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDB5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDB6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "D6RRC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4G9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "B6ZH64",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "D6RRC3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDG0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q6I7R6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H8",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4I6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDC3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDG1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "B6ZH63",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDG2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "A3FFV9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDD6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDE6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4H2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q0EDF6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q7T4J1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 362,
+    "LocationEnd": 363
+  },
+  {
+    "Accession": "Q91IR6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 21,
+    "LocationEnd": 22
+  },
+  {
+    "Accession": "Q1XFM6",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "B2REG1",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 469,
+    "LocationEnd": 470
+  },
+  {
+    "Accession": "Q3LE81",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 408,
+    "LocationEnd": 409
+  },
+  {
+    "Accession": "Q3LE82",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 469,
+    "LocationEnd": 470
+  },
+  {
+    "Accession": "B2REG2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 408,
+    "LocationEnd": 409
+  },
+  {
+    "Accession": "Q1XFL9",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "D2N2J0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 300,
+    "LocationEnd": 301
+  },
+  {
+    "Accession": "E3NYV4",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 285,
+    "LocationEnd": 286
+  },
+  {
+    "Accession": "Q70WN3",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 289,
+    "LocationEnd": 290
+  },
+  {
+    "Accession": "Q80P26",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 289,
+    "LocationEnd": 290
+  },
+  {
+    "Accession": "Q70M04",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "G9FIG5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q4GXV0",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "D7UTC2",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 310,
+    "LocationEnd": 311
+  },
+  {
+    "Accession": "Q0VZC5",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 317,
+    "LocationEnd": 318
+  },
+  {
+    "Accession": "Q80NU7",
+    "Tag1": "P1",
+    "Tag2": "HC",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 284,
+    "LocationEnd": 285
+  }
+]

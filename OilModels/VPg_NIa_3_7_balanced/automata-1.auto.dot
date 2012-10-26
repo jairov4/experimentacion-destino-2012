@@ -1,0 +1,91 @@
+digraph "NDFA" {
+  rankdir=LR
+  node [shape=box width=0.1 height=0.1 fontname=Arial]
+  edge [fontname=Arial]
+/* Estados */
+ s0 [label="0" style="filled"] /* I:1 F:0 D:0 */
+ s3 [label="3" ] /* I:0 F:0 D:0 */
+ s5 [label="5" ] /* I:0 F:0 D:0 */
+ s6 [label="6" ] /* I:0 F:0 D:0 */
+ s7 [label="7" ] /* I:0 F:0 D:0 */
+ s8 [label="8" ] /* I:0 F:0 D:0 */
+ s9 [label="9" ] /* I:0 F:0 D:0 */
+ s10 [label="10" style="bold,dashed"] /* I:0 F:1 D:0 */
+ s11 [label="11" style="filled"] /* I:1 F:0 D:0 */
+ s12 [label="12" ] /* I:0 F:0 D:0 */
+ s14 [label="14" ] /* I:0 F:0 D:0 */
+ s15 [label="15" style="filled"] /* I:1 F:0 D:0 */
+ s16 [label="16" ] /* I:0 F:0 D:0 */
+ s17 [label="17" ] /* I:0 F:0 D:0 */
+ s19 [label="19" style="bold,dashed"] /* I:0 F:1 D:0 */
+ s22 [label="22" ] /* I:0 F:0 D:0 */
+/* Transiciones */
+  s0 -> s0 [label="0,4,5,6,7,8,10,11,12,13,18"]
+  s0 -> s3 [label="16"]
+  s0 -> s6 [label="10"]
+  s0 -> s7 [label="4,10,18,24"]
+  s0 -> s8 [label="0,8,17,18,21"]
+  s0 -> s9 [label="2,12,15,19"]
+  s0 -> s10 [label="6,12"]
+  s0 -> s11 [label="0,2,3"]
+  s0 -> s12 [label="2,3"]
+  s0 -> s14 [label="18,19"]
+  s0 -> s16 [label="17"]
+  s0 -> s17 [label="12"]
+  s0 -> s22 [label="11,15"]
+  s3 -> s10 [label="3"]
+  s3 -> s15 [label="4"]
+  s5 -> s0 [label="19"]
+  s6 -> s0 [label="0,4,6"]
+  s6 -> s10 [label="6,18"]
+  s7 -> s0 [label="7,10"]
+  s7 -> s6 [label="4,16,19"]
+  s7 -> s9 [label="11"]
+  s7 -> s10 [label="6"]
+  s7 -> s11 [label="11"]
+  s7 -> s19 [label="21"]
+  s8 -> s0 [label="0,2,12,15,18,19,21,24"]
+  s8 -> s5 [label="3"]
+  s8 -> s7 [label="6,17"]
+  s8 -> s10 [label="6,16,18"]
+  s8 -> s12 [label="0"]
+  s8 -> s14 [label="5"]
+  s8 -> s17 [label="11,15"]
+  s9 -> s0 [label="7,16"]
+  s9 -> s3 [label="6"]
+  s9 -> s6 [label="5"]
+  s9 -> s7 [label="0"]
+  s9 -> s8 [label="4"]
+  s9 -> s9 [label="21"]
+  s9 -> s10 [label="11"]
+  s9 -> s11 [label="0,18"]
+  s9 -> s15 [label="0,19"]
+  s10 -> s0 [label="11,16,19,21"]
+  s10 -> s6 [label="7"]
+  s10 -> s8 [label="5"]
+  s10 -> s10 [label="0,4,7"]
+  s10 -> s11 [label="18"]
+  s10 -> s15 [label="12"]
+  s11 -> s0 [label="5,7,12,17,24"]
+  s11 -> s9 [label="4,17"]
+  s11 -> s10 [label="3"]
+  s11 -> s17 [label="19"]
+  s11 -> s19 [label="13"]
+  s12 -> s0 [label="2"]
+  s12 -> s11 [label="13"]
+  s12 -> s17 [label="21"]
+  s14 -> s0 [label="4,6"]
+  s14 -> s10 [label="7,8"]
+  s14 -> s17 [label="11"]
+  s15 -> s0 [label="17"]
+  s15 -> s7 [label="21"]
+  s15 -> s10 [label="0,4,8,19"]
+  s15 -> s11 [label="16,19"]
+  s15 -> s16 [label="6"]
+  s16 -> s10 [label="11,21"]
+  s17 -> s0 [label="3,4,18"]
+  s17 -> s10 [label="7,11,19"]
+  s19 -> s10 [label="13"]
+  s22 -> s0 [label="24"]
+  s22 -> s10 [label="12"]
+}

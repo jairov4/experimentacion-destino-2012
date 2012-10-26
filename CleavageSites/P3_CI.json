@@ -1,0 +1,56 @@
+[
+  {
+    "Accession": "Q9WAA3",
+    "Tag1": "P3",
+    "Tag2": "CI",
+    "ChainIndex1": 0,
+    "ChainIndex2": 1,
+    "LocationBegin": 292,
+    "LocationEnd": 360
+  },
+  {
+    "Accession": "G4V504",
+    "Tag1": "P3",
+    "Tag2": "CI",
+    "ChainIndex1": 2,
+    "ChainIndex2": 3,
+    "LocationBegin": 1036,
+    "LocationEnd": 1090
+  },
+  {
+    "Accession": "Q6XQ83",
+    "Tag1": "P3",
+    "Tag2": "CI",
+    "ChainIndex1": 2,
+    "ChainIndex2": 3,
+    "LocationBegin": 1165,
+    "LocationEnd": 1166
+  },
+  {
+    "Accession": "Q6XQK0",
+    "Tag1": "P3",
+    "Tag2": "CI",
+    "ChainIndex1": 2,
+    "ChainIndex2": 3,
+    "LocationBegin": 1165,
+    "LocationEnd": 1166
+  },
+  {
+    "Accession": "Q9IBP2",
+    "Tag1": "P3",
+    "Tag2": "CI",
+    "ChainIndex1": 2,
+    "ChainIndex2": 3,
+    "LocationBegin": 1164,
+    "LocationEnd": 1165
+  },
+  {
+    "Accession": "Q705V6",
+    "Tag1": "P3",
+    "Tag2": "CI",
+    "ChainIndex1": 2,
+    "ChainIndex2": 3,
+    "LocationBegin": 1165,
+    "LocationEnd": 1166
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Accession": "Q563A1",
+    "Tag1": "6K1",
+    "Tag2": "6K2",
+    "ChainIndex1": 3,
+    "ChainIndex2": 4,
+    "LocationBegin": 1299,
+    "LocationEnd": 1934
+  },
+  {
+    "Accession": "D6NKG7",
+    "Tag1": "6K1",
+    "Tag2": "6K2",
+    "ChainIndex1": 2,
+    "ChainIndex2": 3,
+    "LocationBegin": 1107,
+    "LocationEnd": 1746
+  }
+]
