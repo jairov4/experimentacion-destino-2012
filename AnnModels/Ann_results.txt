@@ -1,0 +1,163 @@
+Cargado ../CleavageSitesSampled/NIb_CP_2_9_train_balanced.csv
+Cargado ../CleavageSitesSampled/NIb_CP_2_9_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.995 Spec: 0.996 Sens: 0.213 MCC: 0.101
+Cargado ../CleavageSitesSampled/CI_6K2_5_5_train_balanced.csv
+Cargado ../CleavageSitesSampled/CI_6K2_5_5_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.986 Spec: 0.986 Sens: 0.464 MCC: 0.077
+Cargado ../CleavageSitesSampled/6K2_VPg_9_0_train_balanced.csv
+Cargado ../CleavageSitesSampled/6K2_VPg_9_0_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.989 Spec: 0.990 Sens: 0.031 MCC: 0.005
+Cargado ../CleavageSitesSampled/VPg_NIa_3_7_train_balanced.csv
+Cargado ../CleavageSitesSampled/VPg_NIa_3_7_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.984 Spec: 0.985 Sens: 0.292 MCC: 0.043
+Cargado ../CleavageSitesSampled/P1_HC_3_8_train_balanced.csv
+Cargado ../CleavageSitesSampled/P1_HC_3_8_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.993 Spec: 0.993 Sens: 0.406 MCC: 0.109
+Cargado ../CleavageSitesSampled/NIa_NIb_1_10_train_balanced.csv
+Cargado ../CleavageSitesSampled/NIa_NIb_1_10_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.985 Spec: 0.985 Sens: 0.214 MCC: 0.032
+Cargado ../CleavageSitesSampled/P3_6K1_2_8_train_balanced.csv
+Cargado ../CleavageSitesSampled/P3_6K1_2_8_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.995 Spec: 0.995 Sens: 0.045 MCC: 0.011
+Cargado ../CleavageSitesSampled/6K1_CI_7_2_train_balanced.csv
+Cargado ../CleavageSitesSampled/6K1_CI_7_2_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.988 Spec: 0.988 Sens: 0.538 MCC: 0.096
+Cargado ../CleavageSitesSampled/HC_P3_6_5_train_balanced.csv
+Cargado ../CleavageSitesSampled/HC_P3_6_5_test.csv
+Entrenado modelo 1
+Entrenado modelo 2
+Entrenado modelo 3
+Entrenado modelo 4
+Entrenado modelo 5
+Entrenado modelo 6
+Entrenado modelo 7
+Entrenado modelo 8
+Entrenado modelo 9
+Entrenado modelo 10
+Entrenado modelo 11
+Entrenado modelo 12
+Entrenado modelo 13
+Entrenado modelo 14
+Entrenado modelo 15
+Acc: 0.995 Spec: 0.995 Sens: 0.792 MCC: 0.201
+>> 

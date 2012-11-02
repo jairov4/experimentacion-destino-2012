@@ -42,3 +42,8 @@ HmmModels/
 OilModels/
 	Contains the OIL grammar inference models generated using FastOIL.exe in bin/
 
+AnnModels/
+	Contains the ANN models generated using MATLAB and ann_train.m script
+
+AnnModels/workspace.mat
+	Contains the full MATLAB workspace after ANN training and testing.
