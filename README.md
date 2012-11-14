@@ -9,35 +9,35 @@ un conjunto de datos proveniente de UniProtKB el cual fue manualmente reetiqueta
 Files and Folders
 -----------------
 
-* report_for_all.txt
+* `report_for_all.txt`
 
-  Report for all model evaluation, it includes full permissions. It results from exec gather_results.sh
+	Report for all model evaluation, it includes full permissions. It results from exec gather_results.sh
 
-* gather_results.sh
+* `gather_results.sh`
 
-  It gather the results in subdirectories to single file.
+	It gather the results in subdirectories to single file.
 
-* FullChangeOrders.json
+* `FullChangeOrders.json`
 
-  This file contains all manual tagging information
+	This file contains all manual tagging information
 
-* uniprot-taxonomy-potyviridae.xml
+* `uniprot-taxonomy-potyviridae.xml`
 
-  Contains the whole dataset downloaded from UniProtKB querying for taxonomy:potyviridae
+	Contains the whole dataset downloaded from UniProtKB querying for taxonomy:potyviridae
 
-* TaggedData.json
+* `TaggedData.json`
 
-  Contains all biosequences with tags manually applied
+	Contains all biosequences with tags manually applied
 
-* bin/
+* `bin/`
 
-  Binaries for algorithms evaluated
+	Binaries for algorithms evaluated
 
-* CleavageSites/
+* `CleavageSites/`
 
-  contains the cleavage site annotation manually done using ProteinTagger from https://code.google.com/p/protein-tagger/
+	contains the cleavage site annotation manually done using ProteinTagger from https://code.google.com/p/protein-tagger/
 
-* CleavageSitesSampled/
+* `CleavageSitesSampled/`
 
 	files with the pattern {Protein1}_{Protein2}_{SamplingWindow}_{usage}[_balanced].{ext}
 	{usage} indicates if dataset is used to train or test.
@@ -46,18 +46,18 @@ Files and Folders
 	[_balanced] only appears on files indicating that number of negative samples are constrained to be 10 times number positive samples.
 	{ext} is the extension for the file format. It can be CSV, DESTINO plain text or JSON. JSON files are only for summary.
 
-* HmmModels/
+* `HmmModels/`
 
 	Contains the Hidden Markov Models generated using FastHMM.exe in bin/
 
-* OilModels/
+* `OilModels/`
 
 	Contains the OIL grammar inference models generated using FastOIL.exe in bin/
 
-* AnnModels/
+* `AnnModels/`
 
 	Contains the ANN models generated using MATLAB and ann_train.m script
 
-* AnnModels/workspace.mat
+* `AnnModels/workspace.mat`
 
-	Contains the full [MATLAB http://www.matlab.com] workspace after ANN training and testing.
+	Contains the full MATLAB (http://www.matlab.com) workspace after ANN training and testing.
