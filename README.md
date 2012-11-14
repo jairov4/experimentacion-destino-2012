@@ -1,7 +1,7 @@
 Experimentation
 ===============
 
-This experimentation is done by DESTINO Research Group in Pontificia Universidad Javeriana Cali.
+This experimentation is done by [DESTINO Research Group](http://destino.javerianacali.edu.co) in [Pontificia Universidad Javeriana Cali](http://www.javerianacali.edu.co).
 
 Esta experimentacion consiste en probar la creacion de modelos mediante las tecnicas OIL, ANN y HMM utilizando 
 un conjunto de datos proveniente de UniProtKB el cual fue manualmente reetiquetado usando ProteinTagger
